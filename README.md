@@ -7,14 +7,7 @@ and this includes many things like</p>
   <li>Creating Dashboards for user and Labour to provide info relavant to them</li>
 </ul>
 
-<h2>Technologies Used</h2>
-<ul>
-<li>Vite (React)</li>
-<li>Node.js</li>
-<li>Express.js</li>
-<li>Tailwind CSS</li>
-<li>React Query</li>
-</ul>
+
 
 
 
