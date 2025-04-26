@@ -17,7 +17,7 @@ const port = process.env.PORT || 8001;
 app.use(express.json());
 app.use(
   cors({
-    origin: ["https://service-bridge-liard.vercel.app", "http://localhost:5173"],
+    origin: [ "http://localhost:5173"],
     credentials: true,
     methods: ['GET', 'POST', 'DELETE', 'PUT']
   })
